@@ -1,7 +1,7 @@
 # Implementation of "Ambient Sound Provides Supervision for Visual Learning" using PyTorch
 <p>
-<img src="./vis/combined1.jpg">    &nbsp;&nbsp;
-<img src="./vis/combined3.jpg">
+<img align="center" src="./vis/combined1.jpg">    &nbsp;&nbsp;
+<img align="center" src="./vis/combined3.jpg">
 </p>
 ### Full report can be read in the PDF - <a href="./report/Improving_Visual_Recognition_using_Ambient_Sound_for_Supervision.pdf">Here</a>
 
