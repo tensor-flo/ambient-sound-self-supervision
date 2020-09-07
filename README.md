@@ -1,8 +1,8 @@
 # Implementation of "Ambient Sound Provides Supervision for Visual Learning" using PyTorch
-
+<p>
 <img src="./vis/combined1.jpg">
 <img src="./vis/combined3.jpg">
-
+</p>
 ### Full report can be read in the PDF - <a href="./report/Improving_Visual_Recognition_using_Ambient_Sound_for_Supervision.pdf">Here</a>
 
 ### Original paper can be read here - https://arxiv.org/pdf/1608.07017.pdf
@@ -67,4 +67,4 @@ E.g. `python activ_retrieval.py /path/to/imagenet alexnet /path/to/model.pth 5 /
 
 The images in the repo are generated using this above script and are teh top activated images for filter number 7 and 117 respectively in CONV layer 3 for our pretext AlexNet model using Statistical summaries features. 
 
-Authors: Rohan Mahadev, Florence Lu
+Authors: Rohan Mahadev, Hongyu (Florence) Lu
