@@ -1,6 +1,6 @@
 # Implementation of "Ambient Sound Provides Supervision for Visual Learning" using PyTorch
-<p>
-<img align="center" src="./vis/combined1.jpg">    &nbsp;&nbsp;
+<p style="text-align:center">
+<img src="./vis/combined1.jpg">    &nbsp;&nbsp;
 <img src="./vis/combined3.jpg">
 </p>
 
